@@ -19,5 +19,5 @@ Mã Số Sinh Viên : 47.01.104.206
 TÀI LIỆU THAM KHẢO :
 1.	Ebook: Clean Code Summary: Agile Software Craftmanship Guidelines - Developer Deconstructed, tác giả McGrath & Todd.
 2.	Ebook: Unity in Action: Multiplatform Game Development in C# with Unity 5, tác giả Joe Hocking.
-3.	Lecture For Alex: Địa chỉ website: https://unityalexdev.com/ (truy cập ngày 27/12/2024).
+3.	Lecture From Alex: Địa chỉ website: https://unityalexdev.com/ (truy cập ngày 27/12/2024).
 4.	Unity Document: Địa chỉ website: https://docs.unity.com/ (truy cập ngày 27/12/2024).
